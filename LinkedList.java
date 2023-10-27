@@ -61,7 +61,7 @@ public class LinkedList {
 		while (currNode != null) { 
 			// Print the data at current node 
 			System.out.print(currNode.data + " "); 
-	
+	//
 			// Go to next node 
 			currNode = currNode.next; 
 		} 
